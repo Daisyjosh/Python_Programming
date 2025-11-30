@@ -3,7 +3,7 @@
 Python_Programming – My Daily Python Learning Journey
 
 Hello there! 👋
-Welcome to Python_Programming, a repository where I upload my daily Python practice programs, notes, and exercises as I learn Python from the basics to advanced concepts.
+Welcome to Python_Programming, a repository where I upload my Python practice programs, notes, and exercises as I learn Python from the basics to advanced concepts.
 
 This repo serves as a personal learning journal and a helpful reference for anyone beginning Python.
 
