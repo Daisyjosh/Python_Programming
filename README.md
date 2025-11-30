@@ -1,5 +1,5 @@
 # Python_Programming
- collection of my daily Python practice programs documenting my learning journey from beginner to advanced.
+ collection of my Python practice programs documenting my learning journey from beginner to advanced.
 Python_Programming – My Daily Python Learning Journey
 
 Hello there! 👋
